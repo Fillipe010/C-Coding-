@@ -1,4 +1,13 @@
-# C Coding 
+# Estudo linguagem C
 
+Série de exercícios introdutórios para programação na linguagem C
 
-Basics and introdutory exercises on how to code in C 
+Para executar os arquivos com o GCC basta seguir o exemplo abaixo: 
+
+```
+$ gcc prog.c -o prog
+```
+
+```
+$ ./prog
+```
